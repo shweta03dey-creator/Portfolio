@@ -94,7 +94,7 @@ export default function Home() {
   return (
     <>
       <header className="nav">
-        <a href="#top" className="brand">Shweta Dey</a>
+        <a href="#top" className="brand">SD</a>
         <nav>
           <a href="#experience">Experience</a>
           <a href="#projects">Projects</a>
@@ -213,7 +213,6 @@ export default function Home() {
           <div className="actions">
             <a className="btn primary" href="mailto:shweta03dey@gmail.com">shweta03dey@gmail.com</a>
             <a className="btn" href="tel:+918011642025">+91 8011642025</a>
-            <a className="btn" href="https://github.com/Shwetadey5">GitHub</a>
             <a className="btn" href="https://linkedin.com/in/Shwetadey5">LinkedIn</a>
           </div>
         </section>
